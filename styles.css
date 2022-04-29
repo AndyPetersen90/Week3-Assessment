@@ -36,3 +36,11 @@ input {
 img {
 	max-width: 300px;
 }
+
+.favorites-button {
+	height: 35px;
+	width: 150px;
+	background-color: rgba(255, 255, 0, 0.734);
+}
+
+
